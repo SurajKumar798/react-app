@@ -1,0 +1,28 @@
+.logo{
+    display: inline;
+    background-color: white;
+    border-radius: 50%;
+    font-size: 70px;
+    font-weight: 600;
+    color: orangered;
+}
+.title{
+    color: white;
+    opacity: 1;
+    font: normal normal 600 300;
+    letter-spacing: 0px;
+}
+.datalist{
+    display: flex;
+    margin-left: 43%;
+    width: 80%;
+
+} 
+/* .select{
+    display: block;
+    width: 80%;
+    padding: 0.375rem 0.75rem;
+    font-size: 1rem;
+    border-radius: 2px;
+   
+} */

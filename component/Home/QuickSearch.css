@@ -1,0 +1,10 @@
+.heading{
+    margin-left: 100px;
+    margin-top: 15px;
+}
+.heading h2{
+    color: #192f60;
+}
+.heading p{
+    opacity: 0.7;
+}

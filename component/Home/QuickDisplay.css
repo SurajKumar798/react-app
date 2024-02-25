@@ -1,0 +1,30 @@
+.mainCard{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    gap: 20px;
+    margin-left: 100px;
+    margin-top: 30px;
+    
+}
+.card{
+    width: 395px;
+    box-shadow: 0px 3px 6px #00000029;
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+   
+}
+.titleItem{
+    width: 155px;
+    height: 155px;
+    margin-left: -12px;
+}
+.titleheading{
+    text-align: left;
+    font: normal normal 600 18px/27px Poppins;
+    letter-spacing: 0px;
+    color: #192F60;
+    opacity: 1;
+    margin-top: 15px;
+}
